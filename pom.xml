@@ -16,6 +16,7 @@
         <maven-plugin.version>3.8.1</maven-plugin.version>
     </properties>
 
+
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
